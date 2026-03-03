@@ -324,7 +324,7 @@ valueBox("20.1 kg")
 
 # Map: Average Seafood Consumption Per Person (1961–2022)
 
-## M**ap Analysis**
+### **Map Analysis**
 
 -   This map reveals that high seafood consumption is heavily concentrated in coastal and maritime nations.
 
