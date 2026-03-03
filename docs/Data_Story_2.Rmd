@@ -314,7 +314,7 @@ World_1961<- fish_rename %>%
 valueBox("8.969643 kg")
 ```
 
-### How many kilogrmas did a average person consume in 2022?
+### How many kilograms did a average person consume in 2022?
 
 ```{r}
 world_2022 <- fish_rename%>%
